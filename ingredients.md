@@ -1,3 +1,5 @@
+Let's begin!
+
 ## Seasoning Mix
 Oregano, dried
 Black pepper, ground
@@ -20,3 +22,5 @@ Milk
 Butter
 Cheddar cheese or other cheese of choice
 Parmesan cheese or other cheese of choice
+
+Enjoy my recipe!
